@@ -2,7 +2,7 @@
 
 <table align="left">
     <tr>
-        <td><b><i>Week 0</i></b></td> <td width="300" align="center"><a href=".................."><b>Java Week 0 Assignment</b></a></td>
+        <td><b><i>Week 0</i></b></td> <td width="300" align="center"><a href="https://github.com/ezabhishek1/NPTEL-JAVA-PROGRAMMING/blob/main/2025/Solved%20Quizzes/Week-%200%20Quiz%20Solution.pdf"><b>Java Week 0 Assignment</b></a></td>
     </tr>
 </table>
 <br>
