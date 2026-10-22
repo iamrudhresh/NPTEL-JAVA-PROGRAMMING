@@ -13,6 +13,10 @@ This repository contains a wealth of resources designed to supplement your learn
 - **Test Solutions**: Access solutions to course tests to compare your answers, gain insights into problem-solving strategies, and reinforce your learning. These solutions serve as valuable resources for self-assessment and improvement.
 
 ## Course Years
+- **2026**: Access the latest course materials and stay updated with the most recent advancements in Java programming.
+  
+- **2025**: Access the latest course materials and stay updated with the most recent advancements in Java programming.
+  
 - **2024**: Access the latest course materials and stay updated with the most recent advancements in Java programming.
   
 - **2022**: Explore course content from previous years to review foundational concepts and deepen your understanding of Java programming principles.
